@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+!.env.sheets.example
+.secrets/
+*.credentials.json
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+coverage/
+playwright-report/
+test-results/
+*.log

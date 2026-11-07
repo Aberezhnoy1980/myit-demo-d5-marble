@@ -1,0 +1,96 @@
+{
+  "browser": "157.0.8103.38",
+  "checks": [
+    {
+      "name": "empty-errors-and-focus",
+      "pass": true
+    },
+    {
+      "name": "architect-result",
+      "pass": true
+    },
+    {
+      "name": "architect-actual-clipboard",
+      "pass": true
+    },
+    {
+      "name": "architect-actual-download",
+      "pass": true
+    },
+    {
+      "name": "author-example-matches",
+      "pass": true
+    },
+    {
+      "name": "audience-invalidates",
+      "pass": true
+    },
+    {
+      "name": "home-result-long-input",
+      "pass": true
+    },
+    {
+      "name": "home-actual-clipboard",
+      "pass": true
+    },
+    {
+      "name": "home-actual-download",
+      "pass": true
+    },
+    {
+      "name": "edit-preserves-values",
+      "pass": true
+    },
+    {
+      "name": "field-invalidates",
+      "pass": true
+    },
+    {
+      "name": "regenerated-current-data",
+      "pass": true
+    },
+    {
+      "name": "material-invalidates",
+      "pass": true
+    },
+    {
+      "name": "keyboard-image-dialog",
+      "pass": true
+    },
+    {
+      "name": "image-dialog-return-focus",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:4335/dist/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/assets/interior.jpg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/assets/warm.jpg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/assets/dark.jpg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/assets/light.jpg",
+      "method": "GET"
+    }
+  ]
+}

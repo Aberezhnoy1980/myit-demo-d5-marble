@@ -1,0 +1,16 @@
+{
+  "manifest_count": 30,
+  "manifest_sha256": "f08391d4ed0ff1dc57617c7058bdbfa0af880c074719be176c42d6f15baee222",
+  "all_manifest_match": true,
+  "public_files": [
+    "app.js",
+    "assets/dark.jpg",
+    "assets/interior.jpg",
+    "assets/light.jpg",
+    "assets/warm.jpg",
+    "index.html",
+    "style.css"
+  ],
+  "public_matches_sources": true,
+  "public_bytes": 630803
+}

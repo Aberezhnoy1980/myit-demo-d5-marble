@@ -1,0 +1,228 @@
+{
+  "browser": "157.0.8103.38",
+  "checks": [
+    {
+      "name": "empty-errors-and-focus",
+      "pass": true
+    },
+    {
+      "name": "architect-result",
+      "pass": true
+    },
+    {
+      "name": "architect-actual-clipboard",
+      "pass": true
+    },
+    {
+      "name": "architect-actual-download",
+      "pass": true
+    },
+    {
+      "name": "author-example-matches",
+      "pass": true
+    },
+    {
+      "name": "audience-invalidates",
+      "pass": true
+    },
+    {
+      "name": "home-result-long-input",
+      "pass": true
+    },
+    {
+      "name": "home-actual-clipboard",
+      "pass": true
+    },
+    {
+      "name": "home-actual-download",
+      "pass": true
+    },
+    {
+      "name": "edit-preserves-values",
+      "pass": true
+    },
+    {
+      "name": "field-invalidates",
+      "pass": true
+    },
+    {
+      "name": "regenerated-current-data",
+      "pass": true
+    },
+    {
+      "name": "material-invalidates",
+      "pass": true
+    },
+    {
+      "name": "keyboard-image-dialog",
+      "pass": true
+    },
+    {
+      "name": "image-dialog-return-focus",
+      "pass": true
+    },
+    {
+      "name": "photo-failure",
+      "pass": true
+    },
+    {
+      "name": "photo-restored",
+      "pass": true
+    },
+    {
+      "name": "long-result-overflow-360",
+      "pass": true
+    },
+    {
+      "name": "long-result-overflow-390",
+      "pass": true
+    },
+    {
+      "name": "long-result-overflow-768",
+      "pass": true
+    },
+    {
+      "name": "long-result-overflow-1024",
+      "pass": true
+    },
+    {
+      "name": "long-result-overflow-1280",
+      "pass": true
+    },
+    {
+      "name": "long-result-overflow-1440",
+      "pass": true
+    },
+    {
+      "name": "selected-contrast",
+      "pass": true,
+      "detail": [
+        7.0409219671623,
+        6.145236389049292
+      ]
+    },
+    {
+      "name": "selected-noncolor-markers",
+      "pass": true
+    },
+    {
+      "name": "reduced-motion",
+      "pass": true
+    },
+    {
+      "name": "prefix-resource-index",
+      "pass": true
+    },
+    {
+      "name": "prefix-resource-app.js",
+      "pass": true
+    },
+    {
+      "name": "prefix-resource-style.css",
+      "pass": true
+    },
+    {
+      "name": "prefix-resource-assets/interior.jpg",
+      "pass": true
+    },
+    {
+      "name": "prefix-resource-assets/warm.jpg",
+      "pass": true
+    },
+    {
+      "name": "prefix-resource-assets/light.jpg",
+      "pass": true
+    },
+    {
+      "name": "prefix-resource-assets/dark.jpg",
+      "pass": true
+    },
+    {
+      "name": "clipboard-denied-selection",
+      "pass": true
+    },
+    {
+      "name": "no-js",
+      "pass": true
+    },
+    {
+      "name": "no-external-submissions",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:4335/dist/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/assets/interior.jpg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/assets/warm.jpg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/assets/dark.jpg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/assets/light.jpg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/assets/interior.jpg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/assets/warm.jpg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/assets/dark.jpg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/assets/light.jpg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/assets/interior.jpg",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4335/dist/assets/warm.jpg",
+      "method": "GET"
+    }
+  ]
+}

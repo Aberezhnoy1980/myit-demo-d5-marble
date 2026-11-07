@@ -1,0 +1,138 @@
+{
+  "date": "2026-11-06",
+  "results": [
+    {
+      "name": "overflow 360",
+      "pass": true
+    },
+    {
+      "name": "overflow 390",
+      "pass": true
+    },
+    {
+      "name": "contrast 390 aud active",
+      "pass": true,
+      "data": {
+        "type": "aud active",
+        "fg": "rgb(69, 82, 59)",
+        "bg": "rgb(238, 236, 229)",
+        "size": "20px",
+        "ratio": 7.0409219671623
+      }
+    },
+    {
+      "name": "contrast 390 material active",
+      "pass": true,
+      "data": {
+        "type": "material active",
+        "fg": "rgb(69, 82, 59)",
+        "bg": "rgb(222, 222, 212)",
+        "size": "20px",
+        "ratio": 6.145236389049292
+      }
+    },
+    {
+      "name": "visible selected markers 390",
+      "pass": true
+    },
+    {
+      "name": "demo marker in first viewport 390",
+      "pass": true
+    },
+    {
+      "name": "overflow 600",
+      "pass": true
+    },
+    {
+      "name": "overflow 768",
+      "pass": true
+    },
+    {
+      "name": "overflow 1024",
+      "pass": true
+    },
+    {
+      "name": "overflow 1440",
+      "pass": true
+    },
+    {
+      "name": "contrast 1440 aud active",
+      "pass": true,
+      "data": {
+        "type": "aud active",
+        "fg": "rgb(69, 82, 59)",
+        "bg": "rgb(238, 236, 229)",
+        "size": "23px",
+        "ratio": 7.0409219671623
+      }
+    },
+    {
+      "name": "contrast 1440 material active",
+      "pass": true,
+      "data": {
+        "type": "material active",
+        "fg": "rgb(69, 82, 59)",
+        "bg": "rgb(222, 222, 212)",
+        "size": "23px",
+        "ratio": 6.145236389049292
+      }
+    },
+    {
+      "name": "visible selected markers 1440",
+      "pass": true
+    },
+    {
+      "name": "demo marker in first viewport 1440",
+      "pass": true
+    },
+    {
+      "name": "summary Для проекта архитектора",
+      "pass": true
+    },
+    {
+      "name": "stale hidden Для проекта архитектора",
+      "pass": true
+    },
+    {
+      "name": "summary Для дома",
+      "pass": true
+    },
+    {
+      "name": "stale hidden Для дома",
+      "pass": true
+    },
+    {
+      "name": "image failure explained",
+      "pass": true
+    },
+    {
+      "name": "failed image hidden",
+      "pass": true
+    },
+    {
+      "name": "failed zoom disabled",
+      "pass": true
+    },
+    {
+      "name": "recovery image visible",
+      "pass": true
+    },
+    {
+      "name": "recovery status hidden",
+      "pass": true
+    },
+    {
+      "name": "recovered dialog open",
+      "pass": true
+    },
+    {
+      "name": "escape returns focus",
+      "pass": true
+    },
+    {
+      "name": "no pageerror",
+      "pass": true,
+      "data": []
+    }
+  ]
+}

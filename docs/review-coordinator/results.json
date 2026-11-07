@@ -1,0 +1,251 @@
+{
+  "date": "2026-11-06",
+  "results": [
+    {
+      "name": "overflow 360",
+      "pass": true
+    },
+    {
+      "name": "overflow 390",
+      "pass": true
+    },
+    {
+      "name": "overflow 600",
+      "pass": true
+    },
+    {
+      "name": "overflow 768",
+      "pass": true
+    },
+    {
+      "name": "overflow 1024",
+      "pass": true
+    },
+    {
+      "name": "overflow 1440",
+      "pass": true
+    },
+    {
+      "name": "empty errors",
+      "pass": true
+    },
+    {
+      "name": "first invalid focus",
+      "pass": true
+    },
+    {
+      "name": "summary Для проекта архитектора",
+      "pass": true
+    },
+    {
+      "name": "summary focus Для проекта архитектора",
+      "pass": true
+    },
+    {
+      "name": "stale summary hidden Для проекта архитектора",
+      "pass": true
+    },
+    {
+      "name": "summary Для дома",
+      "pass": true
+    },
+    {
+      "name": "summary focus Для дома",
+      "pass": true
+    },
+    {
+      "name": "stale summary hidden Для дома",
+      "pass": true
+    },
+    {
+      "name": "material invalidates summary",
+      "pass": true
+    },
+    {
+      "name": "audience invalidates summary",
+      "pass": true
+    },
+    {
+      "name": "dialog keyboard open",
+      "pass": true
+    },
+    {
+      "name": "dialog background not focusable",
+      "pass": true,
+      "data": [
+        {
+          "tag": "BODY",
+          "id": ""
+        },
+        {
+          "tag": "BUTTON",
+          "id": "close-viewer"
+        },
+        {
+          "tag": "BODY",
+          "id": ""
+        },
+        {
+          "tag": "BUTTON",
+          "id": "close-viewer"
+        },
+        {
+          "tag": "BODY",
+          "id": ""
+        }
+      ]
+    },
+    {
+      "name": "dialog closes",
+      "pass": true
+    },
+    {
+      "name": "dialog focus returned",
+      "pass": true
+    },
+    {
+      "name": "reduced smooth disabled",
+      "pass": true
+    },
+    {
+      "name": "selected text contrast aud active",
+      "pass": false,
+      "data": {
+        "selector": "aud active",
+        "fg": "rgb(104, 117, 90)",
+        "bg": "rgb(238, 236, 229)",
+        "size": "23px",
+        "weight": "400",
+        "ratio": 4.149968885964372
+      }
+    },
+    {
+      "name": "selected text contrast material active",
+      "pass": false,
+      "data": {
+        "selector": "material active",
+        "fg": "rgb(104, 117, 90)",
+        "bg": "rgb(222, 222, 212)",
+        "size": "23px",
+        "weight": "400",
+        "ratio": 3.6220455119926425
+      }
+    },
+    {
+      "name": "long summary no overflow",
+      "pass": true
+    },
+    {
+      "name": "keyboard controls reachable",
+      "pass": true,
+      "data": [
+        {
+          "tag": "A",
+          "text": "СЛОЙ / STONE",
+          "id": ""
+        },
+        {
+          "tag": "A",
+          "text": "Обсудить проект ↗",
+          "id": ""
+        },
+        {
+          "tag": "A",
+          "text": "Обсудить проект ↗",
+          "id": ""
+        },
+        {
+          "tag": "BUTTON",
+          "text": "01Для домаКухня, ванная или другая поверхность↗",
+          "id": ""
+        },
+        {
+          "tag": "BUTTON",
+          "text": "02Для проекта архитектораМатериал как часть целого пространс",
+          "id": ""
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Рассмотреть ближе ＋",
+          "id": "zoom"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "01Тёплая пластика↗",
+          "id": ""
+        },
+        {
+          "tag": "BUTTON",
+          "text": "02Светлый ритм↗",
+          "id": ""
+        },
+        {
+          "tag": "BUTTON",
+          "text": "03Тёмный контраст↗",
+          "id": ""
+        },
+        {
+          "tag": "SELECT",
+          "text": "Выберите задачуСтолешница для кухниПоверхность для ваннойДру",
+          "id": "task"
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "id": "size"
+        },
+        {
+          "tag": "SELECT",
+          "text": "Выберите стадиюИдея / планированиеПроектированиеРемонт или с",
+          "id": "stage"
+        },
+        {
+          "tag": "TEXTAREA",
+          "text": "",
+          "id": "comment"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Посмотреть резюме ↗",
+          "id": ""
+        },
+        {
+          "tag": "A",
+          "text": "СЛОЙ / STONE",
+          "id": ""
+        },
+        {
+          "tag": "A",
+          "text": "Наверх ↑",
+          "id": ""
+        },
+        {
+          "tag": "BODY",
+          "text": "СЛОЙ / STONEПОВЕРХНОСТИ ПОД ПРОЕКТОбсудить проект ↗\nМРАМОР /",
+          "id": ""
+        }
+      ]
+    },
+    {
+      "name": "nojs honest explanation",
+      "pass": true
+    },
+    {
+      "name": "nojs inactive form hidden",
+      "pass": true
+    },
+    {
+      "name": "nojs content available",
+      "pass": true
+    },
+    {
+      "name": "missing media does not break form",
+      "pass": true
+    },
+    {
+      "name": "no pageerror",
+      "pass": true,
+      "data": []
+    }
+  ]
+}
