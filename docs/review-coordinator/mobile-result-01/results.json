@@ -1,0 +1,325 @@
+{
+  "chrome": "157.0.8103.39",
+  "checks": [
+    {
+      "width": 360,
+      "kind": "normal",
+      "geometry": {
+        "viewport": 360,
+        "documentWidth": 360,
+        "section": {
+          "left": 0,
+          "right": 360,
+          "width": 360
+        },
+        "form": {
+          "left": 22,
+          "right": 338,
+          "width": 316
+        },
+        "summary": {
+          "left": 22,
+          "right": 338,
+          "width": 316
+        },
+        "text": {
+          "left": 22,
+          "right": 338,
+          "width": 316
+        },
+        "paddingLeft": 22,
+        "paddingRight": 22,
+        "textScrollWidth": 314,
+        "textClientWidth": 314,
+        "childOverflow": []
+      },
+      "textAreaScroll": {
+        "extent": 112,
+        "reached": 112
+      },
+      "clipboard": true,
+      "txtBytes": 734,
+      "edit": true
+    },
+    {
+      "width": 360,
+      "kind": "long",
+      "geometry": {
+        "viewport": 360,
+        "documentWidth": 360,
+        "section": {
+          "left": 0,
+          "right": 360,
+          "width": 360
+        },
+        "form": {
+          "left": 22,
+          "right": 338,
+          "width": 316
+        },
+        "summary": {
+          "left": 22,
+          "right": 338,
+          "width": 316
+        },
+        "text": {
+          "left": 22,
+          "right": 338,
+          "width": 316
+        },
+        "paddingLeft": 22,
+        "paddingRight": 22,
+        "textScrollWidth": 314,
+        "textClientWidth": 314,
+        "childOverflow": []
+      },
+      "textAreaScroll": {
+        "extent": 787,
+        "reached": 787
+      },
+      "clipboard": true,
+      "txtBytes": 2717,
+      "edit": true
+    },
+    {
+      "width": 390,
+      "kind": "normal",
+      "geometry": {
+        "viewport": 390,
+        "documentWidth": 390,
+        "section": {
+          "left": 0,
+          "right": 390,
+          "width": 390
+        },
+        "form": {
+          "left": 22,
+          "right": 368,
+          "width": 346
+        },
+        "summary": {
+          "left": 22,
+          "right": 368,
+          "width": 346
+        },
+        "text": {
+          "left": 22,
+          "right": 368,
+          "width": 346
+        },
+        "paddingLeft": 22,
+        "paddingRight": 22,
+        "textScrollWidth": 344,
+        "textClientWidth": 344,
+        "childOverflow": []
+      },
+      "textAreaScroll": {
+        "extent": 45,
+        "reached": 45
+      },
+      "clipboard": true,
+      "txtBytes": 734,
+      "edit": true
+    },
+    {
+      "width": 390,
+      "kind": "long",
+      "geometry": {
+        "viewport": 390,
+        "documentWidth": 390,
+        "section": {
+          "left": 0,
+          "right": 390,
+          "width": 390
+        },
+        "form": {
+          "left": 22,
+          "right": 368,
+          "width": 346
+        },
+        "summary": {
+          "left": 22,
+          "right": 368,
+          "width": 346
+        },
+        "text": {
+          "left": 22,
+          "right": 368,
+          "width": 346
+        },
+        "paddingLeft": 22,
+        "paddingRight": 22,
+        "textScrollWidth": 344,
+        "textClientWidth": 344,
+        "childOverflow": []
+      },
+      "textAreaScroll": {
+        "extent": 652,
+        "reached": 652
+      },
+      "clipboard": true,
+      "txtBytes": 2717,
+      "edit": true
+    },
+    {
+      "width": 430,
+      "kind": "normal",
+      "geometry": {
+        "viewport": 430,
+        "documentWidth": 430,
+        "section": {
+          "left": 0,
+          "right": 430,
+          "width": 430
+        },
+        "form": {
+          "left": 22,
+          "right": 408,
+          "width": 386
+        },
+        "summary": {
+          "left": 22,
+          "right": 408,
+          "width": 386
+        },
+        "text": {
+          "left": 22,
+          "right": 408,
+          "width": 386
+        },
+        "paddingLeft": 22,
+        "paddingRight": 22,
+        "textScrollWidth": 384,
+        "textClientWidth": 384,
+        "childOverflow": []
+      },
+      "textAreaScroll": {
+        "extent": 45,
+        "reached": 45
+      },
+      "clipboard": true,
+      "txtBytes": 734,
+      "edit": true
+    },
+    {
+      "width": 430,
+      "kind": "long",
+      "geometry": {
+        "viewport": 430,
+        "documentWidth": 430,
+        "section": {
+          "left": 0,
+          "right": 430,
+          "width": 430
+        },
+        "form": {
+          "left": 22,
+          "right": 408,
+          "width": 386
+        },
+        "summary": {
+          "left": 22,
+          "right": 408,
+          "width": 386
+        },
+        "text": {
+          "left": 22,
+          "right": 408,
+          "width": 386
+        },
+        "paddingLeft": 22,
+        "paddingRight": 22,
+        "textScrollWidth": 384,
+        "textClientWidth": 384,
+        "childOverflow": []
+      },
+      "textAreaScroll": {
+        "extent": 585,
+        "reached": 585
+      },
+      "clipboard": true,
+      "txtBytes": 2717,
+      "edit": true
+    },
+    {
+      "width": 1440,
+      "kind": "normal",
+      "geometry": {
+        "viewport": 1440,
+        "documentWidth": 1440,
+        "section": {
+          "left": 0,
+          "right": 1440,
+          "width": 1440
+        },
+        "form": {
+          "left": 804.671875,
+          "right": 1324.8125,
+          "width": 520.140625
+        },
+        "summary": {
+          "left": 804.671875,
+          "right": 1324.8125,
+          "width": 520.140625
+        },
+        "text": {
+          "left": 804.671875,
+          "right": 1324.8125,
+          "width": 520.140625
+        },
+        "paddingLeft": 115.188,
+        "paddingRight": 115.188,
+        "textScrollWidth": 518,
+        "textClientWidth": 518,
+        "childOverflow": []
+      },
+      "textAreaScroll": {
+        "extent": 22,
+        "reached": 22
+      },
+      "clipboard": true,
+      "txtBytes": 734,
+      "edit": true
+    },
+    {
+      "width": 1440,
+      "kind": "long",
+      "geometry": {
+        "viewport": 1440,
+        "documentWidth": 1440,
+        "section": {
+          "left": 0,
+          "right": 1440,
+          "width": 1440
+        },
+        "form": {
+          "left": 804.671875,
+          "right": 1324.8125,
+          "width": 520.140625
+        },
+        "summary": {
+          "left": 804.671875,
+          "right": 1324.8125,
+          "width": 520.140625
+        },
+        "text": {
+          "left": 804.671875,
+          "right": 1324.8125,
+          "width": 520.140625
+        },
+        "paddingLeft": 115.188,
+        "paddingRight": 115.188,
+        "textScrollWidth": 518,
+        "textClientWidth": 518,
+        "childOverflow": []
+      },
+      "textAreaScroll": {
+        "extent": 405,
+        "reached": 405
+      },
+      "clipboard": true,
+      "txtBytes": 2717,
+      "edit": true
+    }
+  ]
+}
