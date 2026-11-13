@@ -1,0 +1,4 @@
+import {chromium} from '/Users/alex/myit/demo/Landing/d2-photo/node_modules/playwright-core/index.mjs';
+import assert from 'node:assert/strict';
+const b=await chromium.launch({executablePath:'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',headless:true});
+for(const width of [390,1440]){const p=await b.newPage({viewport:{width,height:844}});await p.goto('http://127.0.0.1:4335/dist/');for(const i of [0,1,1,2]){await p.locator('.gallery-select').nth(i).click();const state=await p.locator('#task').evaluate(e=>({top:e.getBoundingClientRect().top,bottom:e.getBoundingClientRect().bottom,focus:document.activeElement===e}));assert(state.top>=0&&state.bottom<=844&&state.focus,JSON.stringify(state));console.log(width,i,state);await p.screenshot({path:`screenshots/repeat-${width}.png`})}await p.locator('#gallery').screenshot({path:`screenshots/grid-r2-${width}.png`});await p.close()}await b.close();

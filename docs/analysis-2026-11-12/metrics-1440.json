@@ -1,0 +1,777 @@
+{
+ "docH": 5969,
+ "sections": [
+  {
+   "id": "top",
+   "h": 740
+  },
+  {
+   "id": "strap",
+   "h": 61
+  },
+  {
+   "id": "gallery",
+   "h": 1198
+  },
+  {
+   "id": "materials",
+   "h": 862
+  },
+  {
+   "id": "approach",
+   "h": 613
+  },
+  {
+   "id": "section process",
+   "h": 475
+  },
+  {
+   "id": "visit",
+   "h": 681
+  },
+  {
+   "id": "project",
+   "h": 1092
+  }
+ ],
+ "types": [
+  {
+   "sel": "h1",
+   "text": "Marble.Made forarchitecture.",
+   "font": "Georgia",
+   "size": "92.16px",
+   "lh": "96.768px",
+   "ls": "-4.1472px",
+   "weight": "400",
+   "w": 590,
+   "h": 290
+  },
+  {
+   "sel": "h2",
+   "text": "The collection",
+   "font": "Georgia",
+   "size": "64.8px",
+   "lh": "68.04px",
+   "ls": "-2.916px",
+   "weight": "400",
+   "w": 361,
+   "h": 68
+  },
+  {
+   "sel": "h2",
+   "text": "Character.In every vein.",
+   "font": "Georgia",
+   "size": "64.8px",
+   "lh": "68.04px",
+   "ls": "-2.916px",
+   "weight": "400",
+   "w": 345,
+   "h": 136
+  },
+  {
+   "sel": "h2",
+   "text": "One material.Different ambitions.",
+   "font": "Georgia",
+   "size": "64.8px",
+   "lh": "68.04px",
+   "ls": "-2.916px",
+   "weight": "400",
+   "w": 522,
+   "h": 136
+  },
+  {
+   "sel": "h3",
+   "text": "Table",
+   "font": "Georgia",
+   "size": "32px",
+   "lh": "33.6px",
+   "ls": "-1.44px",
+   "weight": "400",
+   "w": 500,
+   "h": 34
+  },
+  {
+   "sel": "h3",
+   "text": "Define",
+   "font": "Georgia",
+   "size": "27px",
+   "lh": "28.35px",
+   "ls": "-1.215px",
+   "weight": "400",
+   "w": 396,
+   "h": 28
+  },
+  {
+   "sel": "h3",
+   "text": "Develop",
+   "font": "Georgia",
+   "size": "27px",
+   "lh": "28.35px",
+   "ls": "-1.215px",
+   "weight": "400",
+   "w": 396,
+   "h": 28
+  },
+  {
+   "sel": ".eyebrow",
+   "text": "MARBLE OBJECTS & ARCHITECTURAL SURFACES ",
+   "font": "Arial",
+   "size": "11px",
+   "lh": "17.6px",
+   "ls": "1.43px",
+   "weight": "600",
+   "w": 590,
+   "h": 18
+  },
+  {
+   "sel": ".eyebrow",
+   "text": "CURATED OBJECTS & ELEMENTS",
+   "font": "Arial",
+   "size": "11px",
+   "lh": "17.6px",
+   "ls": "1.43px",
+   "weight": "600",
+   "w": 361,
+   "h": 18
+  },
+  {
+   "sel": ".eyebrow",
+   "text": "AI concept visual · not a completed comm",
+   "font": "Arial",
+   "size": "9px",
+   "lh": "14.4px",
+   "ls": "1.17px",
+   "weight": "600",
+   "w": 500,
+   "h": 14
+  },
+  {
+   "sel": ".demo",
+   "text": "INDEPENDENT DEMO · FICTIONAL SHOWROOM",
+   "font": "Arial",
+   "size": "9px",
+   "lh": "14.4px",
+   "ls": "0.9px",
+   "weight": "400",
+   "w": 590,
+   "h": 14
+  },
+  {
+   "sel": ".intro",
+   "text": "A stone showroom for private spaces and ",
+   "font": "Arial",
+   "size": "15px",
+   "lh": "24px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 430,
+   "h": 72
+  },
+  {
+   "sel": ".section-head>p",
+   "text": "From a single object to an architectural",
+   "font": "Arial",
+   "size": "14px",
+   "lh": "22.4px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 355,
+   "h": 67
+  },
+  {
+   "sel": ".section-head>p",
+   "text": "Warm, pale or dark: choose a visual dire",
+   "font": "Arial",
+   "size": "14px",
+   "lh": "22.4px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 355,
+   "h": 45
+  },
+  {
+   "sel": ".section-head>p",
+   "text": "A piece for your home. A palette for a d",
+   "font": "Arial",
+   "size": "14px",
+   "lh": "22.4px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 355,
+   "h": 67
+  },
+  {
+   "sel": ".piece-copy p",
+   "text": "AI concept visual · not a completed comm",
+   "font": "Arial",
+   "size": "9px",
+   "lh": "14.4px",
+   "ls": "1.17px",
+   "weight": "600",
+   "w": 500,
+   "h": 14
+  },
+  {
+   "sel": ".piece-copy p",
+   "text": "A sculptural base and a quiet edge. A ce",
+   "font": "Arial",
+   "size": "14px",
+   "lh": "22.4px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 500,
+   "h": 45
+  },
+  {
+   "sel": ".thumb",
+   "text": "Table✓",
+   "font": "Arial",
+   "size": "13px",
+   "lh": "20.8px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 280,
+   "h": 92
+  },
+  {
+   "sel": ".thumb",
+   "text": "Fireplace surround",
+   "font": "Arial",
+   "size": "13px",
+   "lh": "20.8px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 280,
+   "h": 92
+  },
+  {
+   "sel": ".thumb",
+   "text": "Basin & vanity",
+   "font": "Arial",
+   "size": "13px",
+   "lh": "20.8px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 280,
+   "h": 92
+  },
+  {
+   "sel": ".fine",
+   "text": "Illustrative textures. Natural variation",
+   "font": "Arial",
+   "size": "12px",
+   "lh": "20.4px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 518,
+   "h": 41
+  },
+  {
+   "sel": ".fine",
+   "text": "No drawing yet? Start with an idea. Marb",
+   "font": "Arial",
+   "size": "12px",
+   "lh": "20.4px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 900,
+   "h": 41
+  },
+  {
+   "sel": ".fine",
+   "text": "Exhibition concept for this demo. No rea",
+   "font": "Arial",
+   "size": "11px",
+   "lh": "18.7px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 570,
+   "h": 19
+  },
+  {
+   "sel": ".strap",
+   "text": "NATURAL STONE. CONSIDERED AT EVERY SCALE",
+   "font": "Arial",
+   "size": "10px",
+   "lh": "16px",
+   "ls": "1.1px",
+   "weight": "400",
+   "w": 1440,
+   "h": 61
+  },
+  {
+   "sel": ".header nav a",
+   "text": "Collection",
+   "font": "Arial",
+   "size": "13px",
+   "lh": "20.8px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 57,
+   "h": 21
+  },
+  {
+   "sel": ".header nav a",
+   "text": "Materials",
+   "font": "Arial",
+   "size": "13px",
+   "lh": "20.8px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 53,
+   "h": 21
+  },
+  {
+   "sel": ".header nav a",
+   "text": "Projects",
+   "font": "Arial",
+   "size": "13px",
+   "lh": "20.8px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 47,
+   "h": 21
+  },
+  {
+   "sel": ".languages button",
+   "text": "EN",
+   "font": "Arial",
+   "size": "12px",
+   "lh": "19.2px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 40,
+   "h": 40
+  },
+  {
+   "sel": ".languages button",
+   "text": "RU",
+   "font": "Arial",
+   "size": "12px",
+   "lh": "19.2px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 40,
+   "h": 40
+  },
+  {
+   "sel": ".filters button",
+   "text": "All pieces",
+   "font": "Arial",
+   "size": "12px",
+   "lh": "19.2px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 89,
+   "h": 44
+  },
+  {
+   "sel": ".filters button",
+   "text": "Furniture & objects",
+   "font": "Arial",
+   "size": "12px",
+   "lh": "19.2px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 139,
+   "h": 44
+  },
+  {
+   "sel": ".filters button",
+   "text": "Architecture",
+   "font": "Arial",
+   "size": "12px",
+   "lh": "19.2px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 102,
+   "h": 44
+  },
+  {
+   "sel": ".index-heading button",
+   "text": "←",
+   "font": "Arial",
+   "size": "20px",
+   "lh": "32px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 44,
+   "h": 44
+  },
+  {
+   "sel": ".index-heading button",
+   "text": "→",
+   "font": "Arial",
+   "size": "20px",
+   "lh": "32px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 44,
+   "h": 44
+  },
+  {
+   "sel": ".image-control",
+   "text": "View full image",
+   "font": "Arial",
+   "size": "12px",
+   "lh": "19.2px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 112,
+   "h": 44
+  },
+  {
+   "sel": ".image-control",
+   "text": "Explore the texture",
+   "font": "Arial",
+   "size": "12px",
+   "lh": "19.2px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 133,
+   "h": 44
+  },
+  {
+   "sel": ".button",
+   "text": "Explore the collection",
+   "font": "Arial",
+   "size": "13px",
+   "lh": "19.5px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 210,
+   "h": 61
+  },
+  {
+   "sel": ".button",
+   "text": "Discuss this piece",
+   "font": "Arial",
+   "size": "13px",
+   "lh": "19.5px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 190,
+   "h": 61
+  },
+  {
+   "sel": ".button",
+   "text": "Plan a showroom visit",
+   "font": "Arial",
+   "size": "13px",
+   "lh": "19.5px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 212,
+   "h": 61
+  },
+  {
+   "sel": ".text-link",
+   "text": "Discuss a project",
+   "font": "Arial",
+   "size": "13px",
+   "lh": "20.8px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 99,
+   "h": 42
+  },
+  {
+   "sel": ".text-link",
+   "text": "Edit details",
+   "font": "Arial",
+   "size": "13px",
+   "lh": "20.8px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 0,
+   "h": 0
+  },
+  {
+   "sel": ".material",
+   "text": "Warm characterSelected ✓",
+   "font": "Georgia",
+   "size": "23px",
+   "lh": "36.8px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 518,
+   "h": 86
+  },
+  {
+   "sel": ".material",
+   "text": "Light rhythm↗",
+   "font": "Georgia",
+   "size": "23px",
+   "lh": "36.8px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 518,
+   "h": 86
+  },
+  {
+   "sel": ".material",
+   "text": "Dark contrast↗",
+   "font": "Georgia",
+   "size": "23px",
+   "lh": "36.8px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 518,
+   "h": 86
+  },
+  {
+   "sel": ".aud",
+   "text": "Private clientFurniture, kitchens and ba",
+   "font": "Arial",
+   "size": "16px",
+   "lh": "25.6px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 410,
+   "h": 191
+  },
+  {
+   "sel": ".aud",
+   "text": "Architect / designerMaterial direction, ",
+   "font": "Arial",
+   "size": "16px",
+   "lh": "25.6px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 410,
+   "h": 191
+  },
+  {
+   "sel": ".aud",
+   "text": "Contractor / developerProject scope, qua",
+   "font": "Arial",
+   "size": "16px",
+   "lh": "25.6px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 410,
+   "h": 191
+  },
+  {
+   "sel": ".aud small",
+   "text": "Furniture, kitchens and bathrooms for a ",
+   "font": "Arial",
+   "size": "13px",
+   "lh": "20.8px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 358,
+   "h": 21
+  },
+  {
+   "sel": ".aud small",
+   "text": "Material direction, details and design c",
+   "font": "Arial",
+   "size": "13px",
+   "lh": "20.8px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 358,
+   "h": 21
+  },
+  {
+   "sel": ".aud small",
+   "text": "Project scope, quantities, phases and pr",
+   "font": "Arial",
+   "size": "13px",
+   "lh": "20.8px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 358,
+   "h": 42
+  },
+  {
+   "sel": "label",
+   "text": "Enquiry type",
+   "font": "Arial",
+   "size": "12px",
+   "lh": "19.2px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 558,
+   "h": 19
+  },
+  {
+   "sel": "label",
+   "text": "Your context",
+   "font": "Arial",
+   "size": "12px",
+   "lh": "19.2px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 558,
+   "h": 19
+  },
+  {
+   "sel": "label",
+   "text": "What are you planning? *",
+   "font": "Arial",
+   "size": "12px",
+   "lh": "19.2px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 558,
+   "h": 19
+  },
+  {
+   "sel": "select",
+   "text": "Project discussionPavilion visit / invit",
+   "font": "Arial",
+   "size": "15px",
+   "lh": "normal",
+   "ls": "normal",
+   "weight": "400",
+   "w": 558,
+   "h": 46
+  },
+  {
+   "sel": "select",
+   "text": "Private clientArchitect / designerContra",
+   "font": "Arial",
+   "size": "15px",
+   "lh": "normal",
+   "ls": "normal",
+   "weight": "400",
+   "w": 558,
+   "h": 46
+  },
+  {
+   "sel": "select",
+   "text": "Please selectTableFireplace surroundBasi",
+   "font": "Arial",
+   "size": "15px",
+   "lh": "normal",
+   "ls": "normal",
+   "weight": "400",
+   "w": 558,
+   "h": 46
+  },
+  {
+   "sel": "input",
+   "text": "",
+   "font": "Arial",
+   "size": "15px",
+   "lh": "24px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 558,
+   "h": 50
+  },
+  {
+   "sel": ".hero-image figcaption",
+   "text": "AI concept visual · not a completed comm",
+   "font": "Arial",
+   "size": "10px",
+   "lh": "16px",
+   "ls": "0.4px",
+   "weight": "400",
+   "w": 720,
+   "h": 40
+  },
+  {
+   "sel": ".logo span",
+   "text": "MARBLE · UAE",
+   "font": "Arial",
+   "size": "9px",
+   "lh": "16.2px",
+   "ls": "1.62px",
+   "weight": "400",
+   "w": 85,
+   "h": 16
+  },
+  {
+   "sel": ".logo span",
+   "text": "MARBLE · UAE",
+   "font": "Arial",
+   "size": "9px",
+   "lh": "16.2px",
+   "ls": "1.62px",
+   "weight": "400",
+   "w": 85,
+   "h": 16
+  },
+  {
+   "sel": "footer p",
+   "text": "A fictional UAE showroom. All product im",
+   "font": "Arial",
+   "size": "12px",
+   "lh": "19.2px",
+   "ls": "normal",
+   "weight": "400",
+   "w": 430,
+   "h": 38
+  }
+ ],
+ "small": [
+  {
+   "tag": "A",
+   "text": "Collection",
+   "w": 57,
+   "h": 21
+  },
+  {
+   "tag": "A",
+   "text": "Materials",
+   "w": 53,
+   "h": 21
+  },
+  {
+   "tag": "A",
+   "text": "Projects",
+   "w": 47,
+   "h": 21
+  },
+  {
+   "tag": "A",
+   "text": "Visit",
+   "w": 24,
+   "h": 21
+  },
+  {
+   "tag": "BUTTON",
+   "text": "EN",
+   "w": 40,
+   "h": 40
+  },
+  {
+   "tag": "BUTTON",
+   "text": "RU",
+   "w": 40,
+   "h": 40
+  },
+  {
+   "tag": "A",
+   "text": "Discuss a project",
+   "w": 99,
+   "h": 42
+  },
+  {
+   "tag": "A",
+   "text": "Back to top",
+   "w": 60,
+   "h": 19
+  }
+ ],
+ "fontSizes": {
+  "16px": 4,
+  "9px": 4,
+  "13px": 21,
+  "12px": 33,
+  "11px": 11,
+  "15px": 21,
+  "10px": 4,
+  "64.8px": 2,
+  "14px": 17,
+  "32px": 2,
+  "20px": 2,
+  "23px": 3,
+  "26px": 3,
+  "27px": 3,
+  "30px": 1
+ }
+}

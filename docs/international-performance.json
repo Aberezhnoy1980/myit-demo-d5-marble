@@ -1,0 +1,42 @@
+{
+  "initialBytes": 325639,
+  "resources": [
+    {
+      "url": "style.css",
+      "bytes": 12509
+    },
+    {
+      "url": "content.js",
+      "bytes": 16646
+    },
+    {
+      "url": "assets/concepts/table.jpg",
+      "bytes": 229423
+    },
+    {
+      "url": "app.js",
+      "bytes": 10645
+    },
+    {
+      "url": "assets/concepts/thumbs/table.jpg",
+      "bytes": 9230
+    },
+    {
+      "url": "assets/concepts/thumbs/fireplace.jpg",
+      "bytes": 9261
+    },
+    {
+      "url": "assets/concepts/thumbs/basin.jpg",
+      "bytes": 10464
+    },
+    {
+      "url": "assets/concepts/thumbs/object.jpg",
+      "bytes": 8210
+    },
+    {
+      "url": "assets/concepts/thumbs/column.jpg",
+      "bytes": 8931
+    }
+  ],
+  "jsGzip": 9707
+}

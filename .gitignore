@@ -14,3 +14,6 @@ coverage/
 playwright-report/
 test-results/
 *.log
+
+# Исходники кадров Runway (D5): хранятся локально, в Git не входят
+/assets/incoming-2026-11/

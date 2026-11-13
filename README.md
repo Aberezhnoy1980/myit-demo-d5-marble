@@ -7,9 +7,10 @@
 Никакой установки и сборки зависимостей. Из папки D5:
 
 ```sh
-mkdir -p dist/assets
+mkdir -p dist/assets/concepts
 cp index.html style.css app.js dist/
 cp assets/*.jpg dist/assets/
+cp assets/concepts/*.jpg dist/assets/concepts/
 python3 -m http.server 4335 --bind 127.0.0.1
 ```
 
@@ -19,4 +20,28 @@ python3 -m http.server 4335 --bind 127.0.0.1
 
 Документы — `docs/`; тестовая команда `node tests/verify.mjs` использует уже существующий локальный Playwright Core из D2 только для проверки, не входит в продукт и не устанавливается автоматически. Проверка требует работающий сервер на 4335 и установленный Chrome, пути заданы в скрипте. Пример фактически скачанного запроса — `examples/zapros-po-proektu.txt`. Снимки — `screenshots/completion-390.png`, `completion-1440.png`, `request-390.png`.
 
-`SHA256SUMS` охватывает все файлы D5, включая `dist/`, документацию, примеры, тест и снимки, кроме себя и чужого `docs/review-coordinator/`. Проверка: `shasum -a 256 -c SHA256SUMS`.
+`SHA256SUMS` охватывает все файлы D5, включая `dist/`, документацию, примеры, тест и снимки, кроме себя и чужого `docs/review-coordinator/`. С 13.11.2026 — только файлы, отслеживаемые Git (кроме себя и `docs/review-coordinator/`); локальные исходники и материалы вне Git в суммы не входят. Проверка: `shasum -a 256 -c SHA256SUMS`.
+
+## Галерея мастерской — 12.11.2026
+
+Пять концептуальных визуализаций ИИ показывают стол, каминный портал, раковину, декоративный предмет и архитектурную деталь. Они не являются выполненными заказами; предмет из галереи переносится в локальный запрос. Проверки `node tests/gallery.mjs` и `node tests/regression-artisan.mjs` используют имеющийся инструмент QA и Chrome, продукт от них не зависит. Полные снимки: `screenshots/artisan-390.png`, `artisan-1440.png`; отдельные галерея, диалог и результат — `artisan-gallery-*`, `artisan-detail-*`, `artisan-result-*`. Исходный срез до задания 23 сохранён в `docs/baseline-2026-11-11/`.
+
+## Международный шоурум — 12.11.2026
+
+Новое направление и варианты галереи: `docs/international-direction.md`. Английский по умолчанию, переключатель RU; три аудитории и сценарий посещения павильона. Прежние разделы README и тесты выше — история прежних срезов, не инструкция проверки новой разметки.
+
+Текущая упаковка: скопировать `index.html`, `style.css`, `app.js`, `content.js` в `dist/`; JPEG из `assets/`, `assets/concepts/` и `assets/concepts/thumbs/` — в соответствующие папки `dist/assets/`. Оригиналы PNG в публичный комплект не входят. После правки английского словаря выполнить `node tests/static-content.mjs` для статических заголовков и текстов без JavaScript.
+
+Текущие проверки: `node tests/international.mjs`, `node tests/international-measure.mjs`. Используется прежний локальный Chrome/Playwright без установки. Протокол и измерения — `docs/international-checks.txt`, `docs/international-performance.json`; снимки — `screenshots/international/`. Прежняя версия сохранена в `docs/baseline-international-2026-11-12/`.
+
+## Редизайн «Камень — главный экспонат» — 12.11.2026
+
+Актуальная версия. Отчёт — `docs/redesign-2026-11-12.md`, анализ-основание — `docs/analysis-2026-11-12.md`, прежняя версия — `docs/baseline-redesign-2026-11-12/`. Разделы README выше и прежние тесты — история прежних срезов.
+
+Упаковка: скопировать `index.html`, `style.css`, `app.js`, `content.js` в `dist/`; `assets/concepts/*.jpg` → `dist/assets/concepts/`, `assets/materials/*.jpg` → `dist/assets/materials/`, `assets/fonts/*` (woff2 и OFL) → `dist/assets/fonts/`. PNG-оригиналы в комплект не входят.
+
+Проверка: запустить сервер `python3 -m http.server 4335 --bind 127.0.0.1` из папки D5, затем `node tests/redesign.mjs` (адрес `BASE`, по умолчанию `/dist/`; каталог снимков `OUT` должен быть новым). Протокол и снимки — `screenshots/redesign-2026-11-12/`.
+
+Языки: EN (по умолчанию), RU, AR (RTL). Шрифты в `assets/fonts/` — Cormorant Garamond, IBM Plex Sans, IBM Plex Sans Arabic (OFL). Бриф на новые кадры для Runway — `docs/photo-brief-2026-11-12.md`. Актуальные свидетельства проверки — `screenshots/redesign-ar-2026-11-12-r2/`.
+
+Фото коллекции — кадры Runway, отбор: `docs/photo-selection-2026-11-12.md`. При упаковке скопировать также `assets/stone/*.jpg` → `dist/assets/stone/`; PNG из `assets/incoming-2026-11/` в комплект не входят. Актуальные свидетельства — `screenshots/photos-2026-11-12/`.
